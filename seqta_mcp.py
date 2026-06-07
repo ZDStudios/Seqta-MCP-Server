@@ -6,7 +6,7 @@ Auto-refreshes the session token every 10 minutes.
 CONFIGURE THESE THREE LINES:
 """
 
-SEQTA_BASE_URL = "https://students.trinity.wa.edu.au"
+SEQTA_BASE_URL = "school seqta base URL"
 SEQTA_EMAIL    = "your@email.com"
 SEQTA_PASSWORD = "yourpassword"
 
