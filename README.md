@@ -1,0 +1,1 @@
+# Seqta-MCP-Server
